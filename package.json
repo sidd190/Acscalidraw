@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "Ascalidraw",
   "private": true,
   "scripts": {
     "build": "turbo run build",
